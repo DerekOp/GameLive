@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLive", "GameLive\GameLive.csproj", "{DDB57944-DD4E-4303-9AD2-D4D90130755E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB57944-DD4E-4303-9AD2-D4D90130755E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB57944-DD4E-4303-9AD2-D4D90130755E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB57944-DD4E-4303-9AD2-D4D90130755E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB57944-DD4E-4303-9AD2-D4D90130755E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD6FF182-7DEE-436E-87D1-D1A54AFAECFA}
+	EndGlobalSection
+EndGlobal
