@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GameLiveDjango", "GameLiveDjango\GameLiveDjango.pyproj", "{8FDF1F4B-1CB8-4C2B-86D3-84ABBE507579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FDF1F4B-1CB8-4C2B-86D3-84ABBE507579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FDF1F4B-1CB8-4C2B-86D3-84ABBE507579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FDF1F4B-1CB8-4C2B-86D3-84ABBE507579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FDF1F4B-1CB8-4C2B-86D3-84ABBE507579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {145A9246-3B53-4A17-AF90-2AE99B24E296}
+	EndGlobalSection
+EndGlobal
